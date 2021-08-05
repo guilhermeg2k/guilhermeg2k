@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/guilhermeg2k">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeg2k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeg2k&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeg2k&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeg2k&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,7 +17,7 @@
   ##
 
   <div>
-  
+
   ![Snake animation](https://github.com/guilhermeg2k/guilhermeg2k/blob/output/github-contribution-grid-snake.svg)
   </div>
   
